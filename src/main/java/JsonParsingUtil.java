@@ -1,14 +1,6 @@
 import com.google.gson.Gson;
-import com.google.gson.JsonObject;
-import com.google.gson.JsonPrimitive;
-import jdk.nashorn.internal.parser.JSONParser;
-import org.json.JSONObject;
 
-import java.lang.reflect.Type;
-import java.util.HashMap;
-import java.util.Map;
-
-public class Test {
+public class JsonParsingUtil {
 
 
     public static void main(String[] args){
